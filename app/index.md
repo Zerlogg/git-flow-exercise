@@ -6,22 +6,22 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 ## Picks of the Month
 
-### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) |
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) | cubapud@flavor.magazine
 
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 [King Cake](recipe/feb/king-cake.md)
 
-### [Eggs Benny](writer/eggs-benny.md) |
+### [Eggs Benny](writer/eggs-benny.md) | englishmuffin@flavor.magazine
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 [Overnight Oatmeal Pancakes](recipe/feb/overnight-oatmeal-pancakes.md)
 
-### [John Lemon](writer/john-lemon.md) |
+### [John Lemon](writer/john-lemon.md) | zestmaster@flavor.magazine
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 [Sourdough and Banana Pancakes](/recipe/feb/sourdough-and-banana-pancakes.md)
 
-### [Madame Croque](writer/madame-croque.md) |
+### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 [Blue Cornmeal Pancakes](recipe/feb/blue-cornmeal-pancakes.md)
